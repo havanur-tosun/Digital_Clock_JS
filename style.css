@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+
+.clock {
+    position: absolute;
+    top: 35%;
+    left: 32%;
+    /* transform: translateX(-50%) translateY(-50%); */
+    font-size: 60px;
+    font-family: 'Roboto Slab', serif;
+    /* color: cornflowerblue; */
+    color: #00b3ff;
+}
